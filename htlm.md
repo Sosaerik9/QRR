@@ -1,5 +1,3 @@
-# QRR
-QRR
 <!DOCTYPE html>
 <html lang="es">
 <head>
